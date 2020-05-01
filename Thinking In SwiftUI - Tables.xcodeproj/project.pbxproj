@@ -13,6 +13,7 @@
 		C3A54D22245C694300D28783 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A54D21245C694300D28783 /* Assets.xcassets */; };
 		C3A54D25245C694300D28783 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A54D24245C694300D28783 /* Preview Assets.xcassets */; };
 		C3A54D28245C694300D28783 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3A54D26245C694300D28783 /* LaunchScreen.storyboard */; };
+		C3A54D30245C6B3500D28783 /* KeyManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A54D2F245C6B3500D28783 /* KeyManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C3A54D24245C694300D28783 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C3A54D27245C694300D28783 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3A54D29245C694300D28783 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3A54D2F245C6B3500D28783 /* KeyManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				C3A54D1B245C693F00D28783 /* AppDelegate.swift */,
 				C3A54D1D245C693F00D28783 /* SceneDelegate.swift */,
+				C3A54D2F245C6B3500D28783 /* KeyManager.swift */,
 				C3A54D1F245C693F00D28783 /* ContentView.swift */,
 				C3A54D21245C694300D28783 /* Assets.xcassets */,
 				C3A54D26245C694300D28783 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				C3A54D1C245C693F00D28783 /* AppDelegate.swift in Sources */,
 				C3A54D1E245C693F00D28783 /* SceneDelegate.swift in Sources */,
 				C3A54D20245C693F00D28783 /* ContentView.swift in Sources */,
+				C3A54D30245C6B3500D28783 /* KeyManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
